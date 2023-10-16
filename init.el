@@ -193,6 +193,3 @@
        ;;literate
        (default +bindings +smartparens))
 
-(add-to-list 'load-path "/opt/emacs-extra/go-mode.el/")
-(require 'go-mode)
-
