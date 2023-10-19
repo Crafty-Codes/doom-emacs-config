@@ -10,3 +10,4 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+(setq explicit-shell-file-name "/usr/bin/zsh")
